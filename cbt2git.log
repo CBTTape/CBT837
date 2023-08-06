@@ -1,0 +1,6 @@
+2023-08-06 07:52:59.788371 - Initialized conversion of CBT837
+2023-08-06 07:52:59.817676 - Received CBT.V505.FILE837.PDS from FILE837.XMI 
+2023-08-06 07:52:59.819990 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE837.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:52:59.821093 - Found @FILE837.txt (text/plain) in CBT.V505.FILE837.PDS, moved to PDS/@FILE837
+2023-08-06 07:52:59.822015 - Found HASX13.txt (text/plain) in CBT.V505.FILE837.PDS, moved to PDS/HASX13
+2023-08-06 07:52:59.822996 - Found INMXZ02.txt (text/plain) in CBT.V505.FILE837.PDS, moved to PDS/INMXZ02
